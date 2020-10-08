@@ -31,5 +31,20 @@ body{
     margin-top: 10px;
 }
 .card-body{
-    padding: 2.5%;
+    padding-top: 2.5%;
+    padding-left: 2.5%;
+    padding-bottom: 2.5%;
+    padding-right: 2.5%;
+}
+.grid{
+    background-color: white;
+}
+.region{
+    width: 20%;
+    margin-left: 2%;
+    border: 2px solid #e6e6ea;
+    border-radius: 4px;
+}
+.country-list{
+        list-style-type: none;
 }
