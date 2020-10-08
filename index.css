@@ -1,0 +1,35 @@
+body{
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+.card{
+    width: 60%;
+    background-color: #e6e6ea;
+    margin-left: 20%;
+    margin-top: -1.56%;
+    margin-right: 20%;
+}
+.card-heading{
+    height: 58px;
+    text-align: center;
+    background-color: #10789f;
+}
+.web-title{
+    line-height: 58px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 70px;
+    color: white;
+    text-transform: uppercase;
+
+}
+.web-logo{
+    height: 36px;
+    position: absolute;
+    margin-left: -50px;
+    margin-top: 10px;
+}
+.card-body{
+    padding: 2.5%;
+}
